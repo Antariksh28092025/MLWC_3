@@ -14,7 +14,6 @@ Estimators: LS + 2-D interpolation, MMSE (known statistics), ChannelNet (SRCNN -
 | `check_step7.py` | Checks that the Python pipeline reproduces the MATLAB baseline MSE |
 | `train.py` | Trains one model (SRCNN stage, then DnCNN stage) for one channel / SNR / pilot count |
 | `test.py` | Evaluates all methods; makes Figs. 3, 4, 5 and the tables |
-| `make_report.py` | Builds the Word report from the results (export to PDF from Word) |
 
 ## 2. Environment
 
